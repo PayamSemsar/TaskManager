@@ -1,5 +1,5 @@
 ## Frontend this taskmanager
-https://github.com/MehdiDamerchelou/Task_manager
+https://github.com/MehdiDamerchelou/TaskManager
 
 ## Install dependencies
 
